@@ -10,7 +10,7 @@ This is my personal web page for the data science club tutorial!
 
 Here's a cool picture of my hometown!
 
-![Screen Shot 2022-10-09 at 8 50 01 PM](https://cdn.britannica.com/04/202304-050-AB1124AC/Monterrey-Mexico.jpg)
+!(https://cdn.britannica.com/04/202304-050-AB1124AC/Monterrey-Mexico.jpg)
 
 
 Here's how you do links
