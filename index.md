@@ -1,6 +1,6 @@
 # My Personal Web Page
 
-This is my personal web page for the data science club tutorial
+This is my personal web page for the data science club tutorial!
 
 ## Smaller Header
 
@@ -8,9 +8,9 @@ This is my personal web page for the data science club tutorial
 - Like
 - This
 
-Here's a picture of a cool visualization I made in R. It's amazing.
+Here's a cool picture of my hometown!
 
-![Screen Shot 2022-10-09 at 8 50 01 PM](https://user-images.githubusercontent.com/61523138/194790099-cdf40193-ad6d-4f2e-be16-ca0f7d688808.png)
+![Screen Shot 2022-10-09 at 8 50 01 PM](https://cdn.britannica.com/04/202304-050-AB1124AC/Monterrey-Mexico.jpg)
 
 
 Here's how you do links
